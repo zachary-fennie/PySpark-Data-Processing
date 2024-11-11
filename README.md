@@ -1,4 +1,4 @@
-[![CI_CD](https://github.com/zachary-fennie/Rust-Project-2/actions/workflows/CI_CD.yml/badge.svg)](https://github.com/zachary-fennie/Rust-Project-2/actions/workflows/CI_CD.yml)
+[![CI_CD](https://github.com/zachary-fennie/PySpark-Data-Processing/actions/workflows/CI_CD.yml/badge.svg)](https://github.com/zachary-fennie/PySpark-Data-Processing/actions/workflows/CI_CD.yml)
 
 # PySpark Data Processing
 ## PySpark is used to perform data processing on a large dataset with at least one Spark SQL query and one data transformation. The project's emphaisis is on Data processing functionality, use of Spark SQL and transformations, and the CI/CD pipeline.
