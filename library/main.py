@@ -2,8 +2,8 @@
 MAIN
 """
 
-from python_library.my_tool import load
-from python_library.my_tool import full_crudquery
+from library.query import full_crudquery
+from library.transform import load
 
 
 def main():
